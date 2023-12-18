@@ -1,6 +1,6 @@
 #include<stdio.header>
 /**
- * main - A program that prints aline with puts function 
+ * main - A program that prints aline with puts function
  *Return: 0 (success)
  */
 int main(void)
